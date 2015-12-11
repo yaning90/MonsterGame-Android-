@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <TableLayout android:id="@+id/TableLayout01" android:stretchColumns="*"
+        android:layout_height="fill_parent" android:layout_width="fill_parent"
+        android:layout_centerInParent="true" >
+        <TableRow android:id="@+id/TableRow01" android:layout_width="fill_parent"
+            android:layout_height="0px"  android:layout_weight="1" >
+            <Button android:layout_margin="5dp" android:layout_weight="1"
+                android:drawableTop="@drawable/button1"
+                android:layout_height="wrap_content" android:layout_width="wrap_content"
+                android:text="BURPING" android:textColor="#FF39B3FF"
+                android:textStyle="bold"
+                android:id="@+id/game1" />
+            <Button android:layout_weight="1"
+                android:layout_margin="5dp" android:layout_height="wrap_content"
+                android:drawableTop="@drawable/button2"
+                android:layout_width="wrap_content" android:text="BUBBLE"
+                android:textColor="#FF39B3FF" android:textStyle="bold"
+                android:id="@+id/game2" />
+        </TableRow>
+        <TableRow android:layout_width="wrap_content"
+            android:layout_height="0px" android:layout_weight="1" >
+            <Button android:layout_weight="1"
+                android:drawableTop="@drawable/button3"
+                android:layout_margin="5dp" android:layout_height="wrap_content"
+                android:layout_width="wrap_content" android:text="MATH"
+                android:textColor="#FF39B3FF" android:textStyle="bold"
+                android:id="@+id/game3" />
+            <Button android:layout_margin="5dp" android:layout_weight="1"
+                android:drawableTop="@drawable/button4"
+                android:layout_height="wrap_content" android:layout_width="wrap_content"
+                android:text="SNEEZE" android:textColor="#FF39B3FF" android:textStyle="bold"
+                android:id="@+id/game4" />
+        </TableRow>
+    </TableLayout>
+</RelativeLayout>

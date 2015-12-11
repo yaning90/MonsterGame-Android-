@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lemonie/summergame/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/lemonie/summergame/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-8caae76743731295a5b003d60cef845f030c2929.jar" />
+    </item>
+    <item
+        jar="/Users/lemonie/MonsterGameI/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/lemonie/MonsterGameI/app/build/intermediates/pre-dexed/debug/classes-50cfc6e1fefd7d60cab509e0ea4491fa008647bf.jar" />
+    </item>
+    <item
+        jar="/Users/lemonie/MonsterGameI/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/lemonie/MonsterGameI/app/build/intermediates/pre-dexed/debug/classes-3742f5bd6911a658d97aa46b346b29d934b2b8af.jar" />
+    </item>
+    <item
+        jar="/Users/lemonie/summergame/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/lemonie/summergame/app/build/intermediates/pre-dexed/debug/classes-626e35a2d4dc0390ef06dd3e9d16e7a4423cb0f8.jar" />
+    </item>
+    <item
+        jar="/Users/lemonie/summergame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/lemonie/summergame/app/build/intermediates/pre-dexed/debug/classes-ab15bf3223041b2abdbb8f4e85120cd7bd94e10a.jar" />
+    </item>
+    <item
+        jar="/Users/lemonie/MonsterGameI/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/lemonie/MonsterGameI/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-23405be01ff1aaa36436ca15b3a7708c926f55ea.jar" />
+    </item>
+    <item
+        jar="/Users/lemonie/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/lemonie/summergame/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-3718f9460555d7b5440d385ad6fcd1fab60aea9f.jar" />
+    </item>
+
+</items>
